@@ -1,3 +1,3 @@
 # Commands To View
--> `npm i`
--> `npm run watch`
+`npm i`
+`npm run watch`
